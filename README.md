@@ -1,7 +1,5 @@
 # CPFRecNet: a Comprehensively Personalized Food Recommender system based on deep neural Networks
 
-All the CPFRecNet implementation source codes are made publicly available here.
-
 Condition and terms to use any sources of this project (Codes, Datasets, etc.):
 
 1) Please cite the following paper:
