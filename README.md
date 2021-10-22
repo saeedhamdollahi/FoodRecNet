@@ -12,5 +12,5 @@ Saeed Hamdollahi Oskouei and Mahdi Hashemzadeh, "CPFRecNet: a Comprehensively Pe
 
 2) Please do not distribute the database or source codes to others without the authorization from Dr. Mahdi Hashemzadeh (Corresponding author).
 
-Authors’ Emails: saeed.hamdollahi@azaruniv.ac.ir (S Hamdollahi Oskouei), hashemzadeh@azaruniv.ac.ir (M. Hashemzadeh).
+Authors’ Emails: saeed.hamdollahi@azaruniv.ac.ir (S. Hamdollahi Oskouei), hashemzadeh@azaruniv.ac.ir (M. Hashemzadeh).
 
