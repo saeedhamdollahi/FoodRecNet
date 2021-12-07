@@ -4,7 +4,7 @@ Condition and terms to use any sources of this project (Codes, Datasets, etc.):
 
 1) Please cite the following paper:
 
-Saeed Hamdollahi Oskouei and Mahdi Hashemzadeh, "CPFRecNet: a Comprehensively Personalized Food Recommender system based on deep neural Networks," Journal of Computational Science, 2021, (Under review).
+Saeed Hamdollahi Oskouei and Mahdi Hashemzadeh, "CPFRecNet: a Comprehensively Personalized Food Recommender system based on deep neural Networks," Innovative Food Science and Emerging Technologies, 2021, (Under review).
 
 *The use of code and dataset is not possible until this article is published.
 
