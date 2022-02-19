@@ -1,10 +1,10 @@
-# FoodRecNet: A deep learning-based food recommender system utilizing a comprehensive set of food and users features
+# FoodRecNet: A comprehensively personalized Food Recommender system based on deep neural Networks
 
 Condition and terms to use any sources of this project (Codes, Datasets, etc.):
 
 1) Please cite the following paper:
 
-Saeed Hamdollahi Oskouei and Mahdi Hashemzadeh, "FoodRecNet: A deep learning-based food recommender system utilizing a comprehensive set of food and users features," International Journal of Human - Computer Studies, 2021, (Under review).
+Saeed Hamdollahi Oskouei and Mahdi Hashemzadeh, "FoodRecNet: A comprehensively personalized Food Recommender system based on deep neural Networks," International User Modeling and User-Adapted Interaction, 2021, (Under review).
 
 *The use of code and dataset is not possible until this article is published.
 
