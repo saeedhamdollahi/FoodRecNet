@@ -4,7 +4,7 @@ Condition and terms to use any sources of this project (Codes, Datasets, etc.):
 
 1) Please cite the following paper:
 
-Saeed Hamdollahi Oskouei and Mahdi Hashemzadeh, "FoodRecNet: A comprehensively personalized Food Recommender system based on deep neural Networks," International User Modeling and User-Adapted Interaction, 2021, (Under review).
+Saeed Hamdollahi Oskouei and Mahdi Hashemzadeh, "FoodRecNet: A comprehensively personalized Food Recommender system based on deep neural Networks," User Modeling and User-Adapted Interaction, 2022, (Under review).
 
 *The use of code and dataset is not possible until this article is published.
 
