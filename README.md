@@ -4,7 +4,7 @@ Condition and terms to use any sources of this project (Codes, Datasets, etc.):
 
 Please cite the following paper:
 
-Saeed Hamdollahi Oskouei and Mahdi Hashemzadeh, "FoodRecNet: A comprehensively personalized Food Recommender system using deep neural Networks," (Under review).
+S. Hamdollahi Oskouei and M. Hashemzadeh, "FoodRecNet: a comprehensively personalized food recommender system using deep neural networks," Knowledge and Information Systems, 2023/05/07 2023, doi: 10.1007/s10115-023-01897-4.
 
 The AllRecipesRec3M dataset is available for research purposes upon request.
 
